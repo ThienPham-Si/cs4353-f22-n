@@ -1,1 +1,3 @@
 nickname, color
+Groot, Brown
+Bao, Blue
