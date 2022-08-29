@@ -1,3 +1,4 @@
 nickname, color
 Groot, Brown
 Bao, Blue
+Sad, Boy
